@@ -1,0 +1,548 @@
+﻿Gene,Symbol,Species,Experiment accession,Comparison,log_2 fold change,Adjusted p-value,Function
+ENSG00000163220,S100A9,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',2.3,8.18E-06,Calcium ion binding
+ENSG00000047457,CP,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',2,7.84E-05,Metal ion binding 
+ENSG00000210100,MT-TI,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',2,0.000106145,Information Not Available
+ENSG00000151929,BAG3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.8,0.000133216,Adenyl-nucleotide exchange factor activity
+ENSG00000209082,MT-TL1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.7,0.000106145,Triplet codon-amino acid adaptor activity
+ENSG00000166292,TMEM100,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.7,0.00082695,Protein Binding
+ENSG00000143546,S100A8,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.7,0.001840684,Calcium ion binding
+ENSG00000210176,MT-TH,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.6,0.000663922,Triplet codon-amino acid adaptor activity
+ENSG00000210077,MT-TV,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.6,0.000794331,Information Not Available
+ENSG00000167772,ANGPTL4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.6,0.002039303,Enzyme inhibitor activity
+ENSG00000169429,CXCL8,homo sapiens,E-GEOD-27383,'remitted schizophrenia patient' vs 'normal',1.6,0.025106207,Cytokine activity
+ENSG00000119699,TGFB3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.5,0.000106145,Type II transforming growth factor beta receptor binding
+ENSG00000188039,NWD1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.5,0.000106379,ATP binding
+ENSG00000101187,SLCO4A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.5,0.000450016,Protein binding
+ENSG00000074410,CA12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.5,0.001304803,Carbonate dehydratase activity
+ENSG00000210112,MT-TM,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.5,0.00244797,Information Not Available
+ENSG00000241231,ENSG00000241231,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.5,0.007458857,Information Not Available
+ENSG00000081041,CXCL2,homo sapiens,E-GEOD-27383,'remitted schizophrenia patient' vs 'normal',1.5,0.016963388,Cytokine activity
+ENSG00000164292,RHOBTB3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.000199254,Nucleotide binding
+ENSG00000064393,HIPK2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.000378646,Nucleotide binding
+ENSG00000124440,HIF3A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.000382134,RNA polymerase II transcription regulatory region sequence-specific DNA binding
+ENSG00000269028,MTRNR2L12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.001109681,Information Not Available
+ENSG00000004799,PDK4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.001673747,Nucleotide binding
+ENSG00000135063,FAM189A2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.001905575,Molecular function
+ENSG00000227248,FAM155A-IT1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.002039303,Information Not Available
+ENSG00000229847,EMX2OS,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.002128338,Information Not Available
+ENSG00000180914,OXTR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.003305017,G protein-coupled receptor activity
+ENSG00000187193,MT1X,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.007026646,Protein Binding
+ENSG00000177464,GPR4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.007100251,G protein-coupled receptor activity
+ENSG00000163638,ADAMTS9,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.007489073,Endopeptidase activity
+ENSG00000154898,CCDC144CP,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.008016533,Information Not Available
+ENSG00000236778,INTS6-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.008487856,Information Not Available
+ENSG00000141469,SLC14A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.011496713,Water transmembrane transporter activity
+ENSG00000138083,SIX3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.013525153,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ENSG00000233559,LINC00513,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.4,0.013525153,Information Not Available
+ENSG00000125148,MT2A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.000106145,Protein Binding
+ENSG00000141736,ERBB2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.000254299,Nucleotide binding
+ENSG00000112280,COL9A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.000307044,Extracellular matrix structural constituent
+ENSG00000140022,STON2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.000330201,Protein Binding
+ENSG00000016391,CHDH,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.000488489,Protein Binding
+ENSG00000137285,TUBB2B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.001187283,Nucleotide binding
+ENSG00000132470,ITGB4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.001829093,G protein-coupled receptor binding
+ENSG00000125398,SOX9,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.002434245,Transcription cis-regulatory region binding
+ENSG00000130413,STK33,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.003060578,Nucleotide binding
+ENSG00000143514,TP53BP2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.003739321,p53 binding
+ENSG00000236197,PPP1R9A-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.003808067,Information Not Available
+ENSG00000138685,FGF2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.004323639,Fibroblast growth factor receptor binding
+ENSG00000185201,IFITM2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.004618814,Protein coding
+ENSG00000078401,EDN1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.005700662,Signaling receptor binding
+ENSG00000172361,CFAP53,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.007458857,Protein Binding
+ENSG00000166819,PLIN1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.008396758,Protein Binding
+ENSG00000253661,ZFHX4-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.015453517,Information Not Available
+ENSG00000160867,FGFR4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.015546364,Nucleotide binding
+ENSG00000262312,ENSG00000262312,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.016951635,Information Not Available
+ENSG00000160183,TMPRSS3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.01837004,Serine-type endopeptidase activity
+ENSG00000181019,NQO1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.0206836,RNA binding
+ENSG00000285857,ENSG00000285857,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.021676488,Information Not Available
+ENSG00000144837,PLA1A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.3,0.021728699,Phospholipase A1 activity
+ENSG00000134769,DTNA,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,1.74E-05,Protein binding
+ENSG00000056972,TRAF3IP2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.000117998,Signaling receptor binding
+ENSG00000196091,MYBPC1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.000195575,Actin Binding
+ENSG00000100439,ABHD4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.000330201,Lysophospholipase activity
+ENSG00000168309,FAM107A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.000333573,Actin binding
+ENSG00000159423,ALDH4A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.000570475,1-pyrroline-5-carboxylate dehydrogenase activity
+ENSG00000142089,IFITM3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.000832521,Protein Binding
+ENSG00000212907,MT-ND4L,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.000914421,NADH dehydrogenase (ubiquinone) activity
+ENSG00000007372,PAX6,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.001057647,Protein binding
+ENSG00000100427,MLC1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.0012742,Protein binding
+ENSG00000056736,IL17RB,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.001488299,Cytokine receptor activity
+ENSG00000077238,IL4R,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.001522405,Cytokine receptor activity
+ENSG00000150275,PCDH15,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.001816718,Calcium ion binding
+ENSG00000143772,ITPKB,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.001905575,Inositol hexakisphosphate kinase activity
+ENSG00000101203,COL20A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.002791817,Protein binding
+ENSG00000129250,KIF1C,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.002974914,Nucleotide binding
+ENSG00000198786,MT-ND5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.003088917,NADH dehydrogenase activity
+ENSG00000129151,BBOX1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.004140054,Iron ion binding
+ENSG00000235613,NSRP1P1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.004145655,Information Not Available
+ENSG00000179399,GPC5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.004259194,Protein binding
+ENSG00000101680,LAMA1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.005132724,Signaling receptor binding
+ENSG00000246731,MGC16275,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.005653521,Information Not Available
+ENSG00000103742,IGDCC4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.007353694,Protein binding
+ENSG00000198695,MT-ND6,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.007353694,NADH dehydrogenase (ubiquinone) activity
+ENSG00000165029,ABCA1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.007540087,Nucleotide binding
+ENSG00000114698,PLSCR4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.008016533,Calcium ion binding
+ENSG00000056487,PHF21B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.008613177,Protein binding
+ENSG00000139351,SYCP3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.014212074,DNA binding
+ENSG00000012048,BRCA1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.014678612,Transcription cis-regulatory region binding
+ENSG00000280650,KCNIP4-IT1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.015602531,Information Not Available
+ENSG00000153930,ANKFN1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.016939771,Protein binding
+ENSG00000072840,EVC,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.016992524,Information Not Available
+ENSG00000284977,ENSG00000284977,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.017048662,Information Not Available
+ENSG00000109758,HGFAC,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.017494732,Serine-type endopeptidase activity
+ENSG00000079335,CDC14A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.021285191,Phosphoprotein phosphatase activity
+ENSG00000101276,SLC52A3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.022742469,Protein binding
+ENSG00000213420,GPC2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.023203517,Protein binding
+ENSG00000210174,MT-TR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.023765893,Information Not Available
+ENSG00000210117,MT-TW,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.028208021,Information Not Available
+ENSG00000074047,GLI2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.028507528,Transcription cis-regulatory region binding
+ENSG00000124374,PAIP2B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.028917529,mRNA regulatory element binding translation repressor activity
+ENSG00000204091,TDRG1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.031497045,Information Not Available
+ENSG00000138792,ENPEP,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.031769011,Aminopeptidase activity
+ENSG00000214688,C10orf105,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.033419008,Information Not Available
+ENSG00000210144,MT-TY,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.2,0.042298357,Triplet codon-amino acid adaptor activity
+ENSG00000210082,MT-RNR2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,8.23E-05,Structural constituent of ribosome
+ENSG00000135926,TMBIM1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.000694148,Death receptor binding
+ENSG00000076067,RBMS2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.000756418,Nucleic acid binding
+ENSG00000164309,CMYA5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.00082695,Protein binding
+ENSG00000073712,FERMT2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.000996831,Actin binding
+ENSG00000119711,ALDH6A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.001007334,Fatty-acyl-CoA binding
+ENSG00000186951,PPARA,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.001286829,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ENSG00000170370,EMX2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.001390856,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ENSG00000183943,PRKX,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.001525954,Nucleotide binding
+ENSG00000146535,GNA12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.001563575,Nucleotide binding
+ENSG00000143819,EPHX1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.001936471,Catalytic activity
+ENSG00000172380,GNG12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.002090644,Protein binding
+ENSG00000072952,IRAG1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.002279504,Protein binding
+ENSG00000126785,RHOJ,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.002434245,Nucleotide binding
+ENSG00000148498,PARD3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.002912611,Protein binding
+ENSG00000008394,MGST1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.003808067,Glutathione transferase activity
+ENSG00000163884,KLF15,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.004240786,Transcription cis-regulatory region binding
+ENSG00000144908,ALDH1L1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.005220005,Catalytic activity
+ENSG00000155324,GRAMD2B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.005601639,Protein binding
+ENSG00000225177,ENSG00000225177,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.006434179,Information Not Available
+ENSG00000071054,MAP4K4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.006488605,Nucleotide binding
+ENSG00000111907,TPD52L1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.007044334,Protein binding
+ENSG00000171016,PYGO1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.007246988,Protein binding
+ENSG00000137693,YAP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.007777457,Transcription cis-regulatory region binding
+ENSG00000237973,MTCO1P12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.007777457,Information Not Available
+ENSG00000113578,FGF1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.007777457,Fibroblast growth factor receptor binding
+ENSG00000279759,ENSG00000279759,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.00827944,Information Not Available
+ENSG00000161509,GRIN2C,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.008539339,Ionotropic glutamate receptor activity
+ENSG00000106278,PTPRZ1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.008539339,Phosphoprotein phosphatase activity
+ENSG00000164199,ADGRV1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.008780397,G-protein alpha-subunit binding
+ENSG00000111783,RFX4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.009836521,"	RNA polymerase II cis-regulatory region sequence-specific DNA binding"
+ENSG00000107249,GLIS3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.009836521,RNA polymerase II transcription regulatory region sequence-specific DNA binding
+ENSG00000103876,FAH,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.010645586,Catalytic activity
+ENSG00000170989,S1PR1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.010983531,G protein-coupled receptor binding
+ENSG00000128602,SMO,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.011371971,Transmembrane signaling receptor activity
+ENSG00000135540,NHSL1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.011450052,Protein coding
+ENSG00000165478,HEPACAM,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.012563453,Information Not Available
+ENSG00000136869,TLR4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.012880019,Lipopolysaccharide binding
+ENSG00000069399,BCL3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.013142552,Transcription coactivator activity
+ENSG00000119737,GPR75,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.013350336,G protein-coupled receptor activity
+ENSG00000198719,DLL1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.013350336,Notch binding
+ENSG00000189350,TOGARAM2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.013436476,Microtubule binding
+ENSG00000092969,TGFB2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.013692305,Amyloid-beta binding
+ENSG00000145623,OSMR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.014397319,Cytokine receptor activity
+ENSG00000110900,TSPAN11,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.015231296,Protein coding
+ENSG00000164976,MYORG,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.015345156,"Hydrolase activity, hydrolyzing O-glycosyl compounds"
+ENSG00000166813,KIF7,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.015546364,Nucleotide binding
+ENSG00000096060,FKBP5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.016737121,Peptidyl-prolyl cis-trans isomerase activity
+ENSG00000148204,CRB2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.016826005,Calcium ion binding
+ENSG00000131196,NFATC1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.016992524,RNA polymerase II transcription regulatory region sequence-specific DNA binding
+ENSG00000138696,BMPR1B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.017594879,Nucleotide binding
+ENSG00000134042,MRO,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.017602882,Information Not Available
+ENSG00000171444,MCC,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.017823139,Calcium ion binding
+ENSG00000198865,CCDC152,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.017932322,Protein binding
+ENSG00000140853,NLRC5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.01796692,Nucleotide binding
+ENSG00000067177,PHKA1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.018249215,Phosphorylase kinase activity
+ENSG00000146648,EGFR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.018809383,Nucleotide binding
+ENSG00000273329,ENSG00000273329,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.019169344,Information Not Available
+ENSG00000178075,GRAMD1C,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.020226942,Protein binding
+ENSG00000165449,SLC16A9,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.020510046,Creatine transmembrane transporter activity
+ENSG00000153208,MERTK,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.021933587,Nucleotide binding
+ENSG00000104728,ARHGEF10,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.022742469,Guanyl-nucleotide exchange factor activity
+ENSG00000256463,SALL3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.02287993,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ENSG00000174021,GNG5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.025198325,GTPase activity
+ENSG00000171903,CYP4F11,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.025664915,Monooxygenase activity
+ENSG00000197977,ELOVL2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.026716541,Protein binding
+ENSG00000188803,SHISA6,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.02851826,Protein binding
+ENSG00000247081,BAALC-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.028662717,Information Not Available
+ENSG00000272054,ENSG00000272054,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.029545626,Information Not Available
+ENSG00000168306,ACOX2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.031206034,"	acyl-CoA oxidase activity"
+ENSG00000018280,SLC11A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.03129108,Iron ion transmembrane transporter activity
+ENSG00000160606,TLCD1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.03352357,Protein binding
+ENSG00000285667,ENSG00000285667,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.03376454,Information Not Available
+ENSG00000239415,ENSG00000239415,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.034057512,Information Not Available
+ENSG00000187416,LHFPL3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.035805467,Protein binding
+ENSG00000064787,BCAS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.03729456,Information Not Available
+ENSG00000188818,ZDHHC11,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.04014335,Protein binding
+ENSG00000134531,EMP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',1.1,0.041740813,Protein binding
+ENSG00000255642,PABPC1P4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.041856657,Information Not Available
+ENSG00000267322,SNHG22,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.044413903,Information Not Available
+ENSG00000079215,SLC1A3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.047457665,L-glutamate transmembrane transporter activity
+ENSG00000148604,RGR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1.1,0.047538931,G protein-coupled receptor activity
+ENSG00000198886,MT-ND4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.000360358,"	NADH dehydrogenase activity"
+ENSG00000105939,ZC3HAV1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.000366877,RNA binding
+ENSG00000168461,RAB31,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.000378646,Nucleotide binding
+ENSG00000119471,HSDL2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.001438364,Oxidoreductase activity
+ENSG00000143603,KCNN3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.001457875,Inward rectifier potassium channel activity
+ENSG00000187068,C3orf70,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.001645094,
+ENSG00000151322,NPAS3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.001816718,
+ENSG00000135744,AGT,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.001898077,
+ENSG00000132613,MTSS2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.002010825,
+ENSG00000173041,ZNF680,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.003386704,
+ENSG00000182263,FIGN,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.003808067,
+ENSG00000197324,LRP10,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.003808067,
+ENSG00000185432,METTL7A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.004853383,
+ENSG00000131981,LGALS3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.0048567,
+ENSG00000145721,LIX1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.005338164,
+ENSG00000182541,LIMK2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.006330255,
+ENSG00000182103,FAM181B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.006434179,
+ENSG00000165424,ZCCHC24,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.006634049,
+ENSG00000091428,RAPGEF4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.006801147,
+ENSG00000173193,PARP14,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.006836879,
+ENSG00000165730,STOX1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.007353694,
+ENSG00000076555,ACACB,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.007374423,
+ENSG00000114790,ARHGEF26,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.007406192,
+ENSG00000184481,FOXO4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.007608578,
+ENSG00000179388,EGR3,homo sapiens,E-GEOD-27383,'remitted schizophrenia patient' vs 'normal',1,0.007851339,
+ENSG00000205364,MT1M,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.007968542,
+ENSG00000169006,NTSR2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.008556505,
+ENSG00000153944,MSI2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.008614599,
+ENSG00000043355,ZIC2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.008865165,
+ENSG00000185920,PTCH1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.012241225,
+ENSG00000124145,SDC4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.012588459,
+ENSG00000156313,RPGR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.013126829,
+ENSG00000087903,RFX2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.013903034,
+ENSG00000165195,PIGA,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.013919226,
+ENSG00000198804,MT-CO1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.01499532,
+ENSG00000180537,RNF182,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.015225996,
+ENSG00000144909,OSBPL11,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.015425821,
+ENSG00000031081,ARHGAP31,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.015434055,
+ENSG00000244627,TPTEP2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.016071436,
+ENSG00000130222,GADD45G,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.01663091,
+ENSG00000134250,NOTCH2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.01663091,
+ENSG00000134376,CRB1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.016807494,
+ENSG00000214456,PLIN5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.016921119,
+ENSG00000120738,EGR1,homo sapiens,E-GEOD-27383,'remitted schizophrenia patient' vs 'normal',1,0.016963388,
+ENSG00000165185,KIAA1958,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.017222512,
+ENSG00000213390,ARHGAP19,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.017463221,
+ENSG00000165895,ARHGAP42,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.017494732,
+ENSG00000134508,CABLES1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.017510027,
+ENSG00000198744,MTCO3P12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.019159816,
+ENSG00000101888,NXT2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.019286992,
+ENSG00000184384,MAML2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.019386972,
+ENSG00000210164,MT-TG,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.020467658,
+ENSG00000122863,CHST3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.020591323,
+ENSG00000069431,ABCC9,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.021933587,
+ENSG00000134569,LRP4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.024237913,
+ENSG00000177426,TGIF1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.027656869,
+ENSG00000131435,PDLIM4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.028566039,
+ENSG00000196767,POU3F4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.029277892,
+ENSG00000127249,ATP13A4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.029428138,
+ENSG00000152977,ZIC1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.029545626,
+ENSG00000030419,IKZF2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.029545626,
+ENSG00000137198,GMPR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.029786272,
+ENSG00000260495,ENSG00000260495,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.030946127,
+ENSG00000262655,SPON1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.032678785,
+ENSG00000248508,SRP14-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.032962194,
+ENSG00000080493,SLC4A4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.033275757,
+ENSG00000210184,MT-TS2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.033416851,
+ENSG00000163794,UCN,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.035757984,
+ENSG00000169860,P2RY1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.035940912,
+ENSG00000139800,ZIC5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.036405049,
+ENSG00000134716,CYP2J2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.037893245,
+ENSG00000279118,ENSG00000279118,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.038780498,
+ENSG00000221923,ZNF880,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.03967042,
+ENSG00000138336,TET1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.039709513,
+ENSG00000162407,PLPP3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.040267015,
+ENSG00000136518,ACTL6A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.040267015,
+ENSG00000235092,ID2-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.040267015,
+ENSG00000234290,ENSG00000234290,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.041330212,
+ENSG00000148655,LRMDA,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.041500753,
+ENSG00000007866,TEAD3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.041769996,
+ENSG00000183196,CHST6,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.042447817,
+ENSG00000179761,PIPOX,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.043376303,
+ENSG00000214353,VAC14-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.043452488,
+ENSG00000180071,ANKRD18A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.045831304,
+ENSG00000229344,MTCO2P12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.045905067,
+ENSG00000198075,SULT1C4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',1,0.049544437,
+ENSG00000153234,NR4A2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.8,0.000277453,
+ENSG00000122877,EGR2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.8,0.000855165,
+ENSG00000103316,CRYM,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.6,3.15E-07,
+ENSG00000099960,SLC7A4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.6,0.000592524,
+ENSG00000184613,NELL2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,7.71E-05,
+ENSG00000185742,C11orf87,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.000117998,
+ENSG00000086717,PPEF1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.000529752,
+ENSG00000060140,STYK1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.00085595,
+ENSG00000139211,AMIGO2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.000973114,
+ENSG00000261604,ENSG00000261604,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.001906885,
+ENSG00000183090,FREM3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.003452909,
+ENSG00000162772,ATF3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.003808067,
+ENSG00000164484,TMEM200A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.004553009,
+ENSG00000111305,GSG1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.005274629,
+ENSG00000168542,COL3A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.007777457,
+ENSG00000123358,NR4A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.007999054,
+ENSG00000185933,CALHM1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.5,0.00911731,
+ENSG00000171617,ENC1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,2.61E-05,
+ENSG00000166159,LRTM2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,2.61E-05,
+ENSG00000117152,RGS4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,5.97E-05,
+ENSG00000185518,SV2B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,7.71E-05,
+ENSG00000089199,CHGB,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.00010899,
+ENSG00000172508,CARNS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.4,0.000116759,
+ENSG00000115194,SLC30A3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.000117998,
+ENSG00000119125,GDA,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.000226382,
+ENSG00000153233,PTPRR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.000283044,
+ENSG00000120738,EGR1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.000330201,
+ENSG00000174145,NWD2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.000382134,
+ENSG00000175906,ARL4D,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.000467415,
+ENSG00000073969,NSF,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.000658079,
+ENSG00000263878,DLGAP1-AS4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.00082695,
+ENSG00000135324,MRAP2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.001109681,
+ENSG00000175426,PCSK1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.002310532,
+ENSG00000285634,ENSG00000285634,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.004847742,
+ENSG00000278727,ENSG00000278727,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.004860496,
+ENSG00000128253,RFPL2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.005846065,
+ENSG00000197629,MPEG1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.008487856,
+ENSG00000256576,LINC02361,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.008858406,
+ENSG00000106341,PPP1R17,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.4,0.013947804,
+ENSG00000011083,SLC6A7,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,8.23E-05,
+ENSG00000139970,RTN1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000106145,
+ENSG00000139182,CLSTN3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000129038,
+ENSG00000118733,OLFM3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000195575,
+ENSG00000120053,GOT1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000303648,
+ENSG00000132872,SYT4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000333238,
+ENSG00000116106,EPHA4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000360358,
+ENSG00000116133,DHCR24,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000366877,
+ENSG00000136999,CCN3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000425521,
+ENSG00000072041,SLC6A15,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.000435603,
+ENSG00000187210,GCNT1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.0009118,
+ENSG00000128564,VGF,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.001143518,
+ENSG00000122585,NPY,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.3,0.001327294,
+ENSG00000180044,C3orf80,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.001895863,
+ENSG00000135625,EGR4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.001905575,
+ENSG00000119508,NR4A3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.002010825,
+ENSG00000158050,DUSP2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.003369989,
+ENSG00000171509,RXFP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.00365734,
+ENSG00000240764,PCDHGC5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.008470355,
+ENSG00000267272,LINC01140,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.009163858,
+ENSG00000157502,PWWP3B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.009736351,
+ENSG00000089723,OTUB2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.016071436,
+ENSG00000166482,MFAP4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.022118671,
+ENSG00000170955,CAVIN3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.02287993,
+ENSG00000186212,SOWAHB,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.023159698,
+ENSG00000181195,PENK,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.025198325,
+ENSG00000130176,CNN1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.3,0.028507528,
+ENSG00000164600,NEUROD6,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,2.61E-05,
+ENSG00000179820,MYADM,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,4.51E-05,
+ENSG00000120265,PCMT1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000176965,
+ENSG00000163399,ATP1A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000195575,
+ENSG00000126583,PRKCG,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000323767,
+ENSG00000102003,SYP,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000327069,
+ENSG00000154277,UCHL1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000366877,
+ENSG00000185924,RTN4RL1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000378646,
+ENSG00000135622,SEMA4F,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.00048401,
+ENSG00000166111,SVOP,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000584509,
+ENSG00000104490,NCALD,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000652679,
+ENSG00000149269,PAK1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000718675,
+ENSG00000097021,ACOT7,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.000800499,
+ENSG00000138604,GLCE,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001121933,
+ENSG00000133083,DCLK1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001286829,
+ENSG00000164951,PDP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001321126,
+ENSG00000186907,RTN4RL2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001425527,
+ENSG00000145335,SNCA,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001700244,
+ENSG00000146147,MLIP,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001767306,
+ENSG00000179603,GRM8,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001840684,
+ENSG00000184347,SLIT3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001886002,
+ENSG00000132386,SERPINF1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.001905575,
+ENSG00000107295,SH3GL2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.002632606,
+ENSG00000267034,ENSG00000267034,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.003412608,
+ENSG00000011677,GABRA3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.00370548,
+ENSG00000172403,SYNPO2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.003992993,
+ENSG00000152034,MCHR2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.005132724,
+ENSG00000120875,DUSP4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.005274629,
+ENSG00000099282,TSPAN15,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.2,0.005289617,
+ENSG00000126950,TMEM35A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.005479919,
+ENSG00000158258,CLSTN2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.005525321,
+ENSG00000186889,TMEM17,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.005855533,
+ENSG00000157152,SYN2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.00777507,
+ENSG00000225953,SATB2-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.007777457,
+ENSG00000186188,FFAR4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.00826791,
+ENSG00000120129,DUSP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.008858406,
+ENSG00000105695,MAG,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.2,0.012994764,
+ENSG00000225110,PNMA6F,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.013816834,
+ENSG00000140798,ABCC12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.018146616,
+ENSG00000171873,ADRA1D,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.018773858,
+ENSG00000165985,C1QL3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.018773858,
+ENSG00000155011,DKK2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.036227738,
+ENSG00000124212,PTGIS,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.037277516,
+ENSG00000107796,ACTA2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.039660501,
+ENSG00000131471,AOC3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.040085459,
+ENSG00000133392,MYH11,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.2,0.040267015,
+ENSG00000198513,ATL1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,7.84E-05,
+ENSG00000065559,MAP2K4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,8.23E-05,
+ENSG00000165868,HSPA12A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000106145,
+ENSG00000156642,NPTN,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000117998,
+ENSG00000117069,ST6GALNAC5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000117998,
+ENSG00000154096,THY1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000121578,
+ENSG00000169744,LDB2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000173718,
+ENSG00000167114,SLC27A4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000173718,
+ENSG00000129636,ITFG1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000183565,
+ENSG00000117600,PLPPR4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000366877,
+ENSG00000196950,SLC39A10,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000421686,
+ENSG00000165152,PGAP4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000459881,
+ENSG00000006210,CX3CL1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000694148,
+ENSG00000168824,NSG1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000897561,
+ENSG00000136854,STXBP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000914421,
+ENSG00000111218,PRMT8,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.000914421,
+ENSG00000107758,PPP3CB,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001034824,
+ENSG00000136099,PCDH8,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001078985,
+ENSG00000108947,EFNB3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001286829,
+ENSG00000151490,PTPRO,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001345292,
+ENSG00000128245,YWHAH,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001346389,
+ENSG00000128285,MCHR1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001370209,
+ENSG00000127824,TUBA4A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001438364,
+ENSG00000171246,NPTX1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001457875,
+ENSG00000149927,DOC2A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001697498,
+ENSG00000125851,PCSK2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001816718,
+ENSG00000135750,KCNK1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.001905575,
+ENSG00000177875,CCDC184,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.002090644,
+ENSG00000179388,EGR3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.00216884,
+ENSG00000169032,MAP2K1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.002183177,
+ENSG00000196876,SCN8A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.002279504,
+ENSG00000170027,YWHAG,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.002444184,
+ENSG00000165943,MOAP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.002453275,
+ENSG00000147676,MAL2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.002736627,
+ENSG00000157219,HTR5A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.003185394,
+ENSG00000198934,MAGEE1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.003369989,
+ENSG00000154027,AK5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.003871104,
+ENSG00000141433,ADCYAP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.003938109,
+ENSG00000019505,SYT13,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.005359047,
+ENSG00000109436,TBC1D9,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.005359047,
+ENSG00000183307,TMEM121B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.005487052,
+ENSG00000167178,ISLR2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.005487052,
+ENSG00000143318,CASQ1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.006016698,
+ENSG00000136404,TM6SF1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.00625917,
+ENSG00000173452,TMEM196,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.008539339,
+ENSG00000220575,HTR5A-AS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.010668064,
+ENSG00000113532,ST8SIA4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.012164202,
+ENSG00000282164,PEG13,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.012477208,
+ENSG00000129009,ISLR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.012592689,
+ENSG00000106868,SUSD1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.013350336,
+ENSG00000124920,MYRF,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.1,0.013896351,
+ENSG00000176381,PRR18,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.1,0.013896351,
+ENSG00000188981,MSANTD1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.01499532,
+ENSG00000111885,MAN1A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.015730472,
+ENSG00000174460,ZCCHC12,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.017602882,
+ENSG00000169562,GJB1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.1,0.019181551,
+ENSG00000164112,SMIM43,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.019213814,
+ENSG00000103089,FA2H,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.1,0.021241823,
+ENSG00000138166,DUSP5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.02287993,
+ENSG00000156097,GPR61,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.028507528,
+ENSG00000256008,ENSG00000256008,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.030291076,
+ENSG00000166394,CYB5R2,'schizophrenia' vs 'normal' in ,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.1,0.034233442,
+ENSG00000166428,PLD4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1.1,0.034233442,
+ENSG00000121716,PILRB,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.034824635,
+ENSG00000186081,KRT5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.036940762,
+ENSG00000075073,TACR2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.039505451,
+ENSG00000121858,TNFSF10,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.039854913,
+ENSG00000122375,OPN4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.040267015,
+ENSG00000143473,KCNH1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1.1,0.047022057,
+ENSG00000174514,MFSD4A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000106145,
+ENSG00000175182,FAM131A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.00010899,
+ENSG00000145632,PLK2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000121508,
+ENSG00000166206,GABRB3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000124845,
+ENSG00000131100,ATP6V1E1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000150282,
+ENSG00000166257,SCN3B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000195575,
+ENSG00000150394,CDH8,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000366877,
+ENSG00000067715,SYT1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000382134,
+ENSG00000162989,KCNJ3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000446156,
+ENSG00000158560,DYNC1I1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000600527,
+ENSG00000157445,CACNA2D3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000600527,
+ENSG00000163947,ARHGEF3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000706193,
+ENSG00000163536,SERPINI1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000718675,
+ENSG00000164082,GRM2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.000800499,
+ENSG00000147416,ATP6V1B2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001034824,
+ENSG00000166922,SCG5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001158842,
+ENSG00000184307,ZDHHC23,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001158842,
+ENSG00000170091,NSG2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001321126,
+ENSG00000111674,ENO2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001390856,
+ENSG00000074590,NUAK1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001391719,
+ENSG00000197043,ANXA6,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001522405,
+ENSG00000166448,TMEM130,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001566101,
+ENSG00000110675,ELMOD1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001761104,
+ENSG00000105696,TMEM59L,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001777814,
+ENSG00000196305,IARS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001816718,
+ENSG00000165983,PTER,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001829093,
+ENSG00000102471,NDFIP2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001842544,
+ENSG00000147655,RSPO2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001905575,
+ENSG00000187122,SLIT1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.001982481,
+ENSG00000171450,CDK5R2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.002107715,
+ENSG00000014641,MDH1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.002314591,
+ENSG00000066248,NGEF,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.002453275,
+ENSG00000142686,C1orf216,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.00261773,
+ENSG00000113161,HMGCR,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.002893746,
+ENSG00000105649,RAB3A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.003185394,
+ENSG00000162975,KCNF1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.003274584,
+ENSG00000113327,GABRG2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.003305017,
+ENSG00000183715,OPCML,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.003452909,
+ENSG00000054356,PTPRN,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.00370548,
+ENSG00000133627,ACTR3B,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.003747506,
+ENSG00000152931,PART1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.003763367,
+ENSG00000151690,MFSD6,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.004146395,
+ENSG00000058335,RASGRF1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.004379114,
+ENSG00000183662,TAFA1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.0045098,
+ENSG00000165023,DIRAS2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.0045098,
+ENSG00000139112,GABARAPL1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.004572651,
+ENSG00000144583,MARCHF4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.004610543,
+ENSG00000102879,CORO1A,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.0048567,
+ENSG00000167434,CA4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.004968458,
+ENSG00000164794,KCNV1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.005184333,
+ENSG00000022355,GABRA1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.005385983,
+ENSG00000151952,TMEM132D,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.005473097,
+ENSG00000165434,PGM2L1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.005653521,
+ENSG00000168546,GFRA2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.005855533,
+ENSG00000179841,AKAP5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.006944496,
+ENSG00000104723,TUSC3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.008016533,
+ENSG00000139874,SSTR1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.008090388,
+ENSG00000138757,G3BP2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.009514458,
+ENSG00000197106,SLC6A17,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.009814818,
+ENSG00000146151,HMGCLL1,'schizophrenia' vs 'normal' in ,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.010652592,
+ENSG00000164715,LMTK2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.011144081,
+ENSG00000112759,SLC29A1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.011540018,
+ENSG00000185008,ROBO2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.012260439,
+ENSG00000134917,ADAMTS8,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.01268532,
+ENSG00000078053,AMPH,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.012862206,
+ENSG00000175175,PPM1E,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.012877656,
+ENSG00000159082,SYNJ1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.013783112,
+ENSG00000164542,KIAA0895,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.01440738,
+ENSG00000083454,P2RX5,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.015546364,
+ENSG00000172348,RCAN2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.016318059,
+ENSG00000155090,KLF10,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.017001506,
+ENSG00000121769,FABP3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.017861863,
+ENSG00000053438,NNAT,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.018426949,
+ENSG00000089123,TASP1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.01957199,
+ENSG00000115457,IGFBP2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.020017977,
+ENSG00000176383,B3GNT4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.020403948,
+ENSG00000198673,TAFA2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.02130792,
+ENSG00000119698,PPP4R4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.023127326,
+ENSG00000259953,ENSG00000259953,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.023633627,
+ENSG00000268089,GABRQ,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.025436663,
+ENSG00000153820,SPHKAP,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.025809668,
+ENSG00000158089,GALNT14,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.026552329,
+ENSG00000272163,ENSG00000272163,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.028094489,
+ENSG00000111262,KCNA1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.029505955,
+ENSG00000118523,CCN2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.030655943,
+ENSG00000087253,LPCAT2,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.033419008,
+ENSG00000101188,NTSR1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.033857787,
+ENSG00000070159,PTPN3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.03395431,
+ENSG00000130368,MAS1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.03404497,
+ENSG00000173786,CNP,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 9',-1,0.034233442,
+ENSG00000228999,ENSG00000228999,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.0391635,
+ENSG00000197620,EOLA1,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.040787368,
+ENSG00000183036,PCP4,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.043750138,
+ENSG00000075223,SEMA3C,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.044643112,
+ENSG00000124205,EDN3,homo sapiens,E-GEOD-78936,'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24',-1,0.047077537,
